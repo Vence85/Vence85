@@ -109,7 +109,7 @@ API service exposing clean, validated data.
 
 ## 📫 Get in touch
 
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jonasgustafsson85/)
+- **LinkedIn:** [linkedin.com/injonasgustafsson85](https://www.linkedin.com/in/jonasgustafsson85/)
 - **Email:** jonas.gustafsson85@gmail.com
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
