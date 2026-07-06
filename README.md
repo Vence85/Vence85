@@ -109,8 +109,6 @@ API service exposing clean, validated data.
 
 ## 📫 Get in touch
 
-📫 Get in touch
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jonasgustafsson85/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -121,4 +119,3 @@ API service exposing clean, validated data.
 </p>
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
