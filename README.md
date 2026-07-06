@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jonas 👋</h1>
+<h1 align="center">Hi, I'm Jonas </h1>
 
 <p align="center">
   <b>Data Engineer</b> · Object-Oriented Programming & AI graduate<br>
