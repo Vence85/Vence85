@@ -109,7 +109,16 @@ API service exposing clean, validated data.
 
 ## 📫 Get in touch
 
-- **LinkedIn:** [linkedin.com/in/jonasgustafsson85](https://www.linkedin.com/in/jonasgustafsson85/)
-- **Email:** jonas.gustafsson85@gmail.com
+📫 Get in touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonasgustafsson85/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jonas.gustafsson85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
