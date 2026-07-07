@@ -83,28 +83,19 @@ I recently completed a two-year higher vocational education (YH) in **Object-Ori
 
 > A curated selection of my work. More coming soon — I'm actively building projects that show a complete data pipeline end to end.
 
-<!--
-  TEMPLATE — copy this block for each project once the repos are ready.
+### 🏎️ [Race Pulse](https://github.com/Vence85/race_pulse)
+Interactive dashboard for Formula 1 **teammate head-to-head** analysis — the fairest measure of raw driver pace, since teammates share the exact same car. Compare any driver against their teammates on qualifying, race results and points, and see how it shifts across F1's different regulation eras.
 
-### 📦 [Project Name](https://github.com/Vence85/repo-name)
-One or two sentences on what problem it solves and why it matters.
-
-**Stack:** dlt → DuckDB → dbt · orchestrated with ... · deployed on ...
-**Highlights:** what you're proud of (data quality tests, scheduling, docs, etc.)
--->
-
-### 📦 Project One — *coming soon*
-End-to-end data pipeline: ingest a public API, model it with dbt, land it in a warehouse.
-**Stack:** dlt · DuckDB / Snowflake · dbt · Python
+**Stack:** Python · Streamlit · pandas · Jolpica/Ergast API
+**Highlights:** clean OOP data layer separated from the UI · response caching with automatic rate-limit backoff · era-based aggregation · live data from a public API
 
 ### 📦 Project Two — *coming soon*
-Analytics app or dashboard on top of a modeled dataset.
-**Stack:** Python · Streamlit · Plotly
+End-to-end data pipeline: ingest a public API, model it with dbt, land it in a warehouse.
+**Stack:** dlt · DuckDB / Snowflake · dbt · Python
 
 ### 📦 Project Three — *coming soon*
 API service exposing clean, validated data.
 **Stack:** FastAPI · Pydantic · SQL Server
-
 ---
 
 ## 📫 Get in touch
